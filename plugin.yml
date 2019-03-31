@@ -1,0 +1,5 @@
+name: ViewCompass
+main: viewcompass.Main
+version: "${pom.version}"
+author: PetteriM1
+api: ["1.0.0"]
